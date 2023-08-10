@@ -1,0 +1,6 @@
+class Message{
+     puclic static void main(string[]args){
+      System.out.Println("Happay Day")
+      }
+      }
+
